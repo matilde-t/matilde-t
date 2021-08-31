@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matilde-t
-- 👀 I’m interested in Mathematics, Computer Science and Engineering
+- 👀 I’m interested in Mathematics, Computer Science, and Engineering
 - 🌱 I’m currently studying Mathematics for Engineering @ Politecnico di Torino 
 
 <!---
