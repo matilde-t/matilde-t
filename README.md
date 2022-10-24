@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matilde-t
-- 👀 I’m interested in Mathematics, Computer Science, and Engineering
-- 🌱 I’m currently studying Mathematics for Engineering @ Politecnico di Torino 
+- 👀 Interested in Mathematics, Computer Science, and Engineering
+- 👩‍🎓 Politecnico di Torino Graduate - Mathematics for Engineering
+- 🌱 Currently studying Computational Science and Engineering at Technische Universität München
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-t&count_private=true&show_icons=true&theme=vue&hide=stars)
