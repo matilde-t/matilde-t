@@ -4,7 +4,7 @@
 - 🌱 Currently studying Computational Science and Engineering at Technische Universität München
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-t&count_private=true&show_icons=true&theme=vue&hide=stars&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matilde-t&count_private=true&show_icons=true&theme=vue&hide=stars&include_all_commits=true&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matilde-t&theme=vue&layout=compact&langs_count=6&hide=glsl,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!---
